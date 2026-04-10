@@ -6,4 +6,4 @@ pymysql==1.1.0
 cryptography==42.0.1
 python-multipart==0.0.6
 exponent-server-sdk==2.1.0
-ruff==0.8.1
+ruff==0.0.241
